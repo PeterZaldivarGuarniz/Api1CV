@@ -59,7 +59,8 @@ class PerroController extends Controller
      */
     public function show($id)
     {
-        //
+        //btybyrtr
+        //bteybetetyn
     }
 
     /**
